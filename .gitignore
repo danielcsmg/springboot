@@ -7,8 +7,10 @@ out
 *.zip
 *.class
 *.swp
-target
+*/target/*
 classes
 build
 bin
+.idea/inspectionProfiles/
+.idea/vcs.xml
 *~
