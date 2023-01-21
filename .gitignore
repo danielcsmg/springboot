@@ -11,4 +11,6 @@ target
 classes
 build
 bin
+.idea/inspectionProfiles/
+.idea/vcs.xml
 *~
